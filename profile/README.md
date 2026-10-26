@@ -9,7 +9,7 @@
 <p>Student-led robotics education · Arduino · C++ · CAD</p>
 
 <p>
-  <a href="https://robozonenj.org/">Website</a> ·
+  <a href="https://robozone.world">Website</a> ·
   <a href="https://github.com/orgs/robozonehq/repositories">Repositories</a> ·
   <a href="https://hcb.hackclub.com/donations/start/robozone">Support RoboZone</a>
 </p>
@@ -43,7 +43,7 @@ This organization is the home for RoboZone's code and technical projects. Browse
 ## Get involved
 
 - **Contribute:** Report a bug, improve documentation, or suggest a project idea in the relevant repository. For substantial changes, open an issue first so we can discuss the approach.
-- **Mentor or partner:** Help students learn or collaborate on a workshop. Visit [our website](https://robozonenj.org/) to connect with RoboZone.
+- **Mentor or partner:** Help students learn or collaborate on a workshop. Visit [our website](https://robozone.world) to connect with RoboZone.
 - **Support our programs:** Give through our [HCB donation page](https://hcb.hackclub.com/donations/start/robozone).
 
 Our educational programs have included a partnership with **Code Ninjas**.
